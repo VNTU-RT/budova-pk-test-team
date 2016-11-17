@@ -1,3 +1,6 @@
-# My Awesome Book
+# Как сдавать отчеты через GitHub
 
-This file file serves as your book's preface, a great place to describe your book's content and ideas.
+1. Регистрируемся на [https:\education.github.com\](https:\education.github.com\). Подтверждаем e-mail, заходим на сайт с пмоощью логина и пароля (авторизация).
+2. (Выполняет только один из бригады) Переходим по сслыке и создаем свою бригаду (team): [Создаем бригады для групп РТ-16 и ТК-16](https://classroom.github.com/group-assignment-invitations/10d072cb6fd1f4816f4eed8d12bc0f08). **Название бригады** (комманды), составлется так: `уч.год-группа(сокращенно)-номер бригады`, например: `16-РТ-2`. Нажимаем кнопку _Create team_
+3. 
+3. Добавляем остальных членов бригады. Большая зеленая кнопка _"Add teams and collaborators"_, потом в разделе _Collaborators_ вписываем остальных и нажимаем _Add colaborator_.
